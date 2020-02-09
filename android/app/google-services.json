@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "528141019657",
+    "firebase_url": "https://pizzahub-17e5c.firebaseio.com",
+    "project_id": "pizzahub-17e5c",
+    "storage_bucket": "pizzahub-17e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528141019657:android:47402708fc4fc9294e66d8",
+        "android_client_info": {
+          "package_name": "np.com.mithun.flutter_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528141019657-bplt0i69oijdrcciv11dcmtl5p4dubkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.mithun.flutter_chat",
+            "certificate_hash": "5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8"
+          }
+        },
+        {
+          "client_id": "528141019657-77gvnmrp0jpknb7icfmf35a4bkv5o20o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.mithun.flutter_chat",
+            "certificate_hash": "fb9fbdba16892e8118d1c2bbf59d507af83b9b6d"
+          }
+        },
+        {
+          "client_id": "528141019657-h5cee4g01iklc8009mve0toq691qee9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALGbk7osItn2ard6omaSecQxNH2nhX13M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528141019657-h5cee4g01iklc8009mve0toq691qee9d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "528141019657-oen9u49sj24q9gjmepanc8tb4vpbmg3q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "np.com.mithun.flutterChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
